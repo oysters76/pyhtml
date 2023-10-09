@@ -1,0 +1,39 @@
+nav>ul>li>h3
+
+<nav>
+ <ul>
+    <li>
+        <h3></h3>
+    </li>
+ </ul>
+</nav>
+
+nav+ul+li 
+
+<nav>
+</nav>
+<ul>
+</ul>
+<li></li>
+
+
+nav>ul>li+li+li+li
+
+<nav>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
+</nav>
+
+nav>ul+ul+ul>li
+
+<nav>
+    <ul></ul>
+</nav>
+<ul></ul>
+<ul>
+    <li></li>
+</ul>
